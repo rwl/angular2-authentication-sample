@@ -1,4 +1,4 @@
-# Angular 2: Authentication sample.
+# Angular 2: Authentication sample (Dart version).
 
 This sample shows how to create an angular 2 app that:
 * Has **lots of different routes**
@@ -10,4 +10,4 @@ This sample shows how to create an angular 2 app that:
 
 ## Running it
 
-Just install `node` and run `npm install` and then `npm start` :boom:.
+Just install [Dart](https://www.dartlang.org/) and run `pub get` and then `pub serve` :boom:.
